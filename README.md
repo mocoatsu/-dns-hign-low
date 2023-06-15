@@ -1,1 +1,1 @@
-# -dns-hign-low
+# dns-hign-low
